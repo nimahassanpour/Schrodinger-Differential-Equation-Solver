@@ -1,4 +1,6 @@
 # Schrodinger-Differential-Equation-Solver
+Carl M. Bender a , C. Ford b ,  Nima Hassanpour a , and B. Xia
+
 
 Simple and accurate numerical technique for finding eigenvalues, node structure,
 and expectation values of PT-symmetric potentials is devised. The approach involves
